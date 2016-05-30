@@ -11,7 +11,7 @@ namespace COMP2007_S2016_Assignment1_Part1
 {
 
 
-    public partial class _Default
+    public partial class Default
     {
     }
 }
