@@ -7,11 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace COMP2007_S2016_Assignment1_Part1
 {
-	public partial class About1 : System.Web.UI.Page
-	{
-		protected void Page_Load(object sender, EventArgs e)
-		{
+    public partial class Services : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
 
-		}
-	}
+        }
+    }
 }

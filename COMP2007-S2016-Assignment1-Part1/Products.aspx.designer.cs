@@ -7,9 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_S2016_Assignment1_Part1 {
-    
-    
-    public partial class Contact1 {
+namespace COMP2007_S2016_Assignment1_Part1
+{
+
+
+    public partial class Products
+    {
     }
 }
