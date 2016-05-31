@@ -10,51 +10,51 @@
 namespace COMP2007_S2016_Assignment1_Part1 {
     
     
-    public partial class Contact1 {
+    public partial class Navbar {
         
         /// <summary>
-        /// FirstNameTextBox control.
+        /// home control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox FirstNameTextBox;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl home;
         
         /// <summary>
-        /// LastNameTextBox control.
+        /// products control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox LastNameTextBox;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl products;
         
         /// <summary>
-        /// EmailTextBox control.
+        /// services control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox EmailTextBox;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
         
         /// <summary>
-        /// ContactNumberTextBox control.
+        /// about control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox ContactNumberTextBox;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl about;
         
         /// <summary>
-        /// MessageTextBox control.
+        /// contact control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox MessageTextBox;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl contact;
     }
 }

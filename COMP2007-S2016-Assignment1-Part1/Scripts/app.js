@@ -1,1 +1,1 @@
-﻿/* custom javascripts lives here */
+﻿/* custom javascripts goes here */
