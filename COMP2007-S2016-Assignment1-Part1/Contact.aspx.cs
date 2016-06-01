@@ -13,5 +13,11 @@ namespace COMP2007_S2016_Assignment1_Part1
 		{
 
 		}
-	}
+
+
+        protected void SendButton_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Default.aspx");
+        }
+    }
 }
