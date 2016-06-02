@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="Content" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP2007_S2016_Assignment1_Part1.Contact1" EnableViewState="False" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <style>
+    body  {
+        background-color: rgba(237, 227, 227, 0.45);
+    }
+    </style>
     <div class="container">
         <div class="row">
             <div class="col-md-offset-4 col-md-8">

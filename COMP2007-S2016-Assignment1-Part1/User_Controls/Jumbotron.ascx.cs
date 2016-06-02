@@ -12,7 +12,7 @@ namespace COMP2007_S2016_Assignment1_Part1.User_Controls
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            JumbotronH1.InnerText = "Welcome!";
+            JumbotronH1.InnerText = "Infiniti Creations Inc";
         }
     }
 }
